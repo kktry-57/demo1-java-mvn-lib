@@ -59,7 +59,7 @@
                         <include>**/*</include>
                     </includes>
                     <repositoryName>mvn-repo</repositoryName><!--對應github上建立的倉庫名稱 name-->
-                    <repositoryOwner>kk_chen@syscom.com.tw</repositoryOwner><!--github 倉庫所有者即登入使用者名稱-->
+                    <repositoryOwner>kktry57</repositoryOwner><!--github 倉庫所有者即登入使用者名稱-->
                 </configuration>
                 <executions>
                     <execution>
